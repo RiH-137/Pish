@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: phishing-classification
+Version: 0.0.1
+Summary: This model can predict the house price.
+Author: Rishi Ranjan
+Requires-Dist: numpy
+Requires-Dist: Flask
+Requires-Dist: gunicorn
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: PyYAML
+Requires-Dist: evidently
+Requires-Dist: dill
+Requires-Dist: matplotlib

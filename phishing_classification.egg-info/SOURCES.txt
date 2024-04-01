@@ -1,0 +1,7 @@
+setup.py
+phishing/__init__.py
+phishing_classification.egg-info/PKG-INFO
+phishing_classification.egg-info/SOURCES.txt
+phishing_classification.egg-info/dependency_links.txt
+phishing_classification.egg-info/requires.txt
+phishing_classification.egg-info/top_level.txt
